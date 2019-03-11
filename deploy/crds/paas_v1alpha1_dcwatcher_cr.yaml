@@ -1,0 +1,8 @@
+apiVersion: paas.example.com/v1alpha1
+kind: DCWatcher
+metadata:
+  name: example-dcwatcher
+spec:
+  # Add fields here
+  size: 3
+  image: "quay.io/bjpritch/apache-test:latest"
