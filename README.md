@@ -1,0 +1,2 @@
+# deploymentConfig-operator
+Dummy Operator
